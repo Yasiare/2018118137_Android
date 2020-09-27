@@ -1,0 +1,15 @@
+diff a/Lab2/启动模式实验报告.md b/Lab2/启动模式实验报告.md	(rejected hunks)
+@@ -10,11 +10,11 @@
+ 
+ ​			**主要代码：**
+ 
+-​			![](https://github.com/Yasiare/2018118137_Android/tree/Homework/Lab2/image/01.png)
++​			![FirstActivity.java](https://github.com/Yasiare/2018118137_Android/tree/Homework/Lab2/image/01.png)
+ 
+ ​		**打印结果**
+ 
+-![](https://github.com/Yasiare/2018118137_Android/tree/Homework/Lab2/image/02.png)
++![logcat](https://github.com/Yasiare/2018118137_Android/tree/Homework/Lab2/image/02.png)
+ 
+ 
+ 
