@@ -13,6 +13,7 @@ public class SecondActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        Log.d("SecondActivity", this.toString());
         setContentView(R.layout.second_layout);
         Button button2 = (Button) findViewById(R.id.button_2);
         button2.setOnClickListener(new View.OnClickListener(){
@@ -32,4 +33,5 @@ public class SecondActivity extends AppCompatActivity {
         setResult(RESULT_OK,intent);
         finish();
     }
+
 }
