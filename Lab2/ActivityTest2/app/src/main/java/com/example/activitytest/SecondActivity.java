@@ -34,4 +34,10 @@ public class SecondActivity extends AppCompatActivity {
         finish();
     }
 
+    @Override
+    protected void onDestroy(){
+        super.onDestroy();
+        Log.d("SecondActivity","onDestroy");
+    }
+
 }
