@@ -2,8 +2,8 @@
 
 ## 主要代码
 
-<img src="C:\Git\Lab3\PercentLayout\实验截图\2.png" alt="activity_main.xml" style="zoom:50%;" />
+![activity_main.xml](https://github.com/Yasiare/2018118137_Android/tree/Homework/Lab3/PercentLayout/image/2.png)
 
 ## 运行结果
 
-<img src="C:\Git\Lab3\PercentLayout\实验截图\1.png" alt="result" style="zoom:50%;" />
+![result](https://github.com/Yasiare/2018118137_Android/tree/Homework/Lab3/PercentLayout/image/1.png)
