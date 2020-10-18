@@ -2,7 +2,7 @@
 
 ## 主要代码
 
-![fruit_item.xml](https://github.com/Yasiare/2018118137_Android/tree/Homework/Lab4/image/2.png)
+![fruit_item.xml](https://github.com/Yasiare/2018118137_Android/tree/Homework/Lab4/image/2.png raw=true)
 
 ![activity_main.xml](https://github.com/Yasiare/2018118137_Android/tree/Homework/Lab4/image/3.png)
 
